@@ -22,3 +22,7 @@ https://note.nkmk.me/python-opencv-camera-to-still-image/
 https://qiita.com/ba-ton/items/8e428d2aa24288bac737  
 このサイトの3，4，5，6を参考にコードを記述した．コピーしたコードではエラーが発生し、原因も特定できなかったため、簡単なコードに書き直した
 
+## スクリーンショット
+![](1.png)
+![](2.png)
+![](3.png)
